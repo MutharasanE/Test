@@ -1,0 +1,39 @@
+2021-06-16 18:50:25 DEBUG CircleApp:13 - The result [Lcom.sapient.entity.Circle;@6f195bc3
+2021-06-16 18:52:32 DEBUG CircleApp:13 - The result radius: 12.34 height: 10.0color :red
+2021-06-16 18:53:42 DEBUG CircleApp:13 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 18:53:42 DEBUG CircleApp:14 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 18:55:41 DEBUG CircleApp:13 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 18:55:41 DEBUG CircleApp:14 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 18:56:32 DEBUG CircleApp:13 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 18:56:32 DEBUG CircleApp:14 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:04:50 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:04:50 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:05:27 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:05:27 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:08:34 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:08:34 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:09:51 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:09:51 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:12:32 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:12:32 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:13:55 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:13:55 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:16:49 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:16:49 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:18:02 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 10.0color :red
+2021-06-16 19:18:02 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :blue
+2021-06-16 19:18:02 DEBUG CircleApp:16 - The Volume 3 4783.879062809779
+2021-06-16 19:19:21 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 1.0color :red
+2021-06-16 19:19:21 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :red
+2021-06-16 19:19:21 DEBUG CircleApp:16 - The Volume 3 4783.879062809779
+2021-06-16 19:23:35 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 1.0color :red
+2021-06-16 19:23:35 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :red
+2021-06-16 19:23:35 DEBUG CircleApp:16 - The Volume 3 4783.879062809779
+2021-06-16 19:42:04 DEBUG PersonApp:19 - Person Details: Student(program=Java fundamentals, year=2010, fee=4500.0)
+2021-06-16 19:42:04 DEBUG PersonApp:19 - Person Details: Staff(school=Delhi Public school, pay=35000.0)
+2021-06-16 19:42:04 DEBUG PersonApp:19 - Person Details: Staff(school=National Public school, pay=42000.0)
+2021-06-16 19:42:04 DEBUG PersonApp:19 - Person Details: Student(program=Java fundamentals, year=2012, fee=4750.0)
+2021-06-16 19:42:04 DEBUG PersonApp:19 - Person Details: Student(program=Reactjs, year=2017, fee=12500.0)
+2021-06-16 19:52:30 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 1.0color :red
+2021-06-16 19:52:30 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :red
+2021-06-16 19:52:30 DEBUG CircleApp:16 - The Volume 3 4783.879062809779
