@@ -14,6 +14,9 @@ public class CircleApp extends Circle {
         log.debug("The result 1 {}", circles[0].toString());
         log.debug("The result 2 {}", circles[1].toString());
         log.debug("The Volume 3 {}", circles[2].getVolume());
+        for (Circle circle : circles) {
+            log.debug("Area of Circle: {},Volume of Cylidner: {}", circle.getArea(), circle.getVolume());
+        }
 
     }
 }

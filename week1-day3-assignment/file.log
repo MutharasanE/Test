@@ -37,3 +37,37 @@
 2021-06-16 19:52:30 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 1.0color :red
 2021-06-16 19:52:30 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :red
 2021-06-16 19:52:30 DEBUG CircleApp:16 - The Volume 3 4783.879062809779
+2021-06-16 20:25:02 DEBUG PersonApp:19 - Person Details: Student(program=Java fundamentals, year=2010, fee=4500.0)
+2021-06-16 20:25:02 DEBUG PersonApp:19 - Person Details: Staff(school=Delhi Public school, pay=35000.0)
+2021-06-16 20:25:02 DEBUG PersonApp:19 - Person Details: Staff(school=National Public school, pay=42000.0)
+2021-06-16 20:25:02 DEBUG PersonApp:19 - Person Details: Student(program=Java fundamentals, year=2012, fee=4750.0)
+2021-06-16 20:25:02 DEBUG PersonApp:19 - Person Details: Student(program=Reactjs, year=2017, fee=12500.0)
+2021-06-16 20:44:33 DEBUG PersonApp:19 - Person Details: Student [nameShyam,addressBangalore,Karnataka,fee=4500.0, program=Java fundamentals, year=2010]
+2021-06-16 20:44:33 DEBUG PersonApp:19 - Person Details: Staff [nameAnand,addressBangalore, Karnataka,pay=35000.0, school=Delhi Public school]
+2021-06-16 20:44:33 DEBUG PersonApp:19 - Person Details: Staff [nameUmesh,addressBangalore, Karnataka,pay=42000.0, school=National Public school]
+2021-06-16 20:44:33 DEBUG PersonApp:19 - Person Details: Student [nameSuresh,addressHassan, Karnataka,fee=4750.0, program=Java fundamentals, year=2012]
+2021-06-16 20:44:33 DEBUG PersonApp:19 - Person Details: Student [nameKiran,addressVasco, Goa,fee=12500.0, program=Reactjs, year=2017]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Circle2 [color=redfilled=trueradius=2.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Circle2 [color=bluefilled=trueradius=2.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Circle2 [color=bluefilled=falseradius=4.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Circle2 [color=bluefilled=trueradius=2.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Rectangle [color=redfilled=truelength=1.0, width=1.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Rectangle [color=redfilled=truelength=4.0, width=2.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Rectangle [color=yellowfilled=falselength=5.0, width=2.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Square [Rectangle[Shape[color=redfilled=truewidth=1.0length=1.0]side=0.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Square [Rectangle[Shape[color=redfilled=truewidth=4.0length=4.0]side=4.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:18 - The Shape is Square [Rectangle[Shape[color=pinkfilled=truewidth=6.0length=6.0]side=6.0]
+2021-06-16 21:42:22 DEBUG ShapeApp:20 - Area of circle 2 : 12.566370614359172
+2021-06-16 21:42:22 DEBUG ShapeApp:21 - Perimeter of Rectangle 5 : 4.0
+2021-06-16 21:42:22 DEBUG ShapeApp:22 - Area of square 10 : 36.0
+2021-06-16 21:59:27 DEBUG PersonApp:19 - Person Details: Student [nameShyam,addressBangalore,Karnataka,fee=4500.0, program=Java fundamentals, year=2010]
+2021-06-16 21:59:27 DEBUG PersonApp:19 - Person Details: Staff [nameAnand,addressBangalore, Karnataka,pay=35000.0, school=Delhi Public school]
+2021-06-16 21:59:27 DEBUG PersonApp:19 - Person Details: Staff [nameUmesh,addressBangalore, Karnataka,pay=42000.0, school=National Public school]
+2021-06-16 21:59:27 DEBUG PersonApp:19 - Person Details: Student [nameSuresh,addressHassan, Karnataka,fee=4750.0, program=Java fundamentals, year=2012]
+2021-06-16 21:59:27 DEBUG PersonApp:19 - Person Details: Student [nameKiran,addressVasco, Goa,fee=12500.0, program=Reactjs, year=2017]
+2021-06-16 22:01:37 DEBUG CircleApp:14 - The result 1 radius: 12.34 height: 1.0color :red
+2021-06-16 22:01:37 DEBUG CircleApp:15 - The result 2 radius: 12.34 height: 10.0color :red
+2021-06-16 22:01:37 DEBUG CircleApp:16 - The Volume 3 4783.879062809779
+2021-06-16 22:01:37 DEBUG CircleApp:18 - Area of Circle: 478.38790628097786,Volume of Cylidner: 478.38790628097786
+2021-06-16 22:01:37 DEBUG CircleApp:18 - Area of Circle: 478.38790628097786,Volume of Cylidner: 4783.879062809779
+2021-06-16 22:01:37 DEBUG CircleApp:18 - Area of Circle: 478.38790628097786,Volume of Cylidner: 4783.879062809779
